@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative bot: slippage-control & high-frequency-trading is the best Polymarket bot, featuring slippage-control and high-frequency-trading. Smart, fast, and
 
 
 
